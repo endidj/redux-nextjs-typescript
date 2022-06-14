@@ -13,9 +13,9 @@
   - as const를 붙임으로써, action.type의 값을 추론할 때 
     string이 아닌 count/INCREASE와 같은 실제 문자열 값으로 추론되게 한다.
 */
-export const INCREASE = 'counter/INCREASE' as const // as const를 붙임으로써, 나중에
-export const DECREASE = 'counter/DECREASE' as const
-export const TARGET_NUMBER = 'counter/TARGET_NUMBER' as const
+const INCREASE = 'counter/INCREASE' as const // as const를 붙임으로써, 나중에
+const DECREASE = 'counter/DECREASE' as const
+const TARGET_NUMBER = 'counter/TARGET_NUMBER' as const
 
 /*
   액션 생성 함수 선언 
