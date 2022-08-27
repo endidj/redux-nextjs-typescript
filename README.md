@@ -1,8 +1,11 @@
-<h2 align="center">Redux + Next.js + Typescript</h2>
+<h2 align="center">Redux + Next.js ( Typescript ) </h2>
 
 <h3 align="center"> for example, study, boilerplate, whatever...</h3>
+<br>
 
-<br> 
+> 요즘 권장되는 Redux Toolkit을 사용하시려면, <br/>[endidj/reduxtoolkit-nextjs-typescript](https://github.com/endidj/reduxtoolkit-nextjs-typescript) 을 참고해주세요.
+
+<br>
 <br>
 
 ## 📝 Table of Contents
@@ -12,7 +15,6 @@
 - [Code Overview](#code)
 - [Run This Project](#run)
 - [How To Init Redux Project](#init)
-  <!-- - [TODO](../TODO.md) -->
     <br/>
     <br/>
 
